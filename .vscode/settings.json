@@ -1,0 +1,6 @@
+{
+    "powershell.codeFormatting.addWhitespaceAroundPipe": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
